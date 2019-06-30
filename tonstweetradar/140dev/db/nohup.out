@@ -1,0 +1,33 @@
+ Phirehose: Connecting to twitter stream: https://stream.twitter.com/1.1/statuses/filter.json with params: array (  'track' => '#makers,energytransition,fablab,opendata,opengov,p2p,resilience',)
+Phirehose: Resolved host stream.twitter.com to 199.16.156.110, 199.16.156.20
+Phirehose: Connecting to ssl://199.16.156.20, port=443, connectTimeout=5
+Phirehose: Connection established to 199.16.156.20
+Phirehose: POST /1.1/statuses/filter.json HTTP/1.1
+Host: stream.twitter.com:443
+Connection: Close
+Content-type: application/x-www-form-urlencoded
+Content-length: 83
+Accept: */*
+Authorization: OAuth realm="",oauth_consumer_key="k251vTcvLlzvlOCxALJPg",oauth_nonce="dad35857736293740b13e7766cc4beb0",oauth_signature_method="HMAC-SHA1",oauth_timestamp="1400204523",oauth_version="1.0A",oauth_token="59923-ox01XB7E7r2jhEHMBfhKkqi2gBS1gN7HnYW0o30X484",oauth_signature="4KzMqGMDkicK0TVEpYmoNBDO0UA%3D"
+User-Agent: Phirehose/1.0RC +https://github.com/fennb/phirehose
+
+track=%23makers%2Cenergytransition%2Cfablab%2Copendata%2Copengov%2Cp2p%2Cresilience
+
+
+Phirehose: Consume rate: 0 status/sec (1 total), avg enqueueStatus(): 1364.37ms, avg checkFilterPredicates(): 0.01ms (1 total) over 62 seconds, max stream idle period: 31 seconds.
+ Phirehose: Connecting to twitter stream: https://stream.twitter.com/1.1/statuses/filter.json with params: array (  'track' => '#makers,energytransition,fablab,opendata,opengov,p2p,resilience',)
+Phirehose: Resolved host stream.twitter.com to 199.16.156.110, 199.16.156.20
+Phirehose: Connecting to ssl://199.16.156.110, port=443, connectTimeout=5
+Phirehose: Connection established to 199.16.156.110
+Phirehose: POST /1.1/statuses/filter.json HTTP/1.1
+Host: stream.twitter.com:443
+Connection: Close
+Content-type: application/x-www-form-urlencoded
+Content-length: 83
+Accept: */*
+Authorization: OAuth realm="",oauth_consumer_key="k251vTcvLlzvlOCxALJPg",oauth_nonce="f14d316a9791a658bdc820d930abb0b5",oauth_signature_method="HMAC-SHA1",oauth_timestamp="1400205481",oauth_version="1.0A",oauth_token="59923-ox01XB7E7r2jhEHMBfhKkqi2gBS1gN7HnYW0o30X484",oauth_signature="ft1HHaBlAZvfBLvXYRYh6DVWyE4%3D"
+User-Agent: Phirehose/1.0RC +https://github.com/fennb/phirehose
+
+track=%23makers%2Cenergytransition%2Cfablab%2Copendata%2Copengov%2Cp2p%2Cresilience
+
+
